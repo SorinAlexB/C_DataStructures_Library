@@ -1,5 +1,5 @@
 # C_DataStructures_Library
-This project is meant to form a library with every data structure and its functions. The main library is grouped in sub-librarie. Every sub-library has the basic algorithms for any problem that can be faced while using a specific data structure. The project is made in C and the main reason of doing this is the usage of the knowledge I gained in the second half of my first academic year at University Politehnica of Bucharest.
+This project is meant to form a library with every data structure and its functions. The main library is grouped in sub-libraries. Every sub-library has the basic algorithms for any problem that can be faced while using a specific data structure. The project is made in C and the main reason of doing this is the usage of the knowledge I gained in the second half of my first academic year at University Politehnica of Bucharest.
 
 # The content of the library:
 ## 1) Vectors
